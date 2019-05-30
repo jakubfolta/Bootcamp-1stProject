@@ -1,7 +1,7 @@
 # Joined Elements
 > Various elements joined into one page.
 
-## Check Here ==> https://jakubfolta.github.io/Webpages/
+## Check Here ==> https://jakubfolta.github.io/Bootcamp1stProject/
 
 ## Technologies
 * HTML5, CSS3
